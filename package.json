@@ -1,0 +1,22 @@
+{
+  "name": "snowframework-action",
+  "version": "0.0.2",
+  "description": "snowframework action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOPElan/snowframework-action.git"
+  },
+  "keywords": [
+    "snowframework"
+  ],
+  "author": "KOPElan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KOPElan/snowframework-action/issues"
+  },
+  "homepage": "https://github.com/KOPElan/snowframework-action#readme"
+}
