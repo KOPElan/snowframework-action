@@ -1,14 +1,14 @@
 {
-  "name": "snowframework-action",
-  "version": "0.0.2",
-  "description": "snowframework action",
+  "name": "snowframework-mvc",
+  "version": "0.1.0",
+  "description": "snowframework mvc",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KOPElan/snowframework-action.git"
+    "url": "git+https://github.com/KOPElan/snowframework-mvc.git"
   },
   "keywords": [
     "snowframework"
@@ -16,7 +16,7 @@
   "author": "KOPElan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KOPElan/snowframework-action/issues"
+    "url": "https://github.com/KOPElan/snowframework-mvc/issues"
   },
-  "homepage": "https://github.com/KOPElan/snowframework-action#readme"
+  "homepage": "https://github.com/KOPElan/snowframework-mvc#readme"
 }
