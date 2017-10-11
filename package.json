@@ -1,6 +1,6 @@
 {
   "name": "snowframework-mvc",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "snowframework mvc",
   "main": "index.js",
   "scripts": {
